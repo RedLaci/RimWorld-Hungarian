@@ -13,6 +13,7 @@ Translators:
 - Jamesgt
 - SjoCi
 - Moredoor
+- RedLaci
 
 Known issues:
 ---------------------
