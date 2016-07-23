@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<ClickToJumpToProblem>Klikk a problémához ugráshoz</ClickToJumpToProblem>
+<NeedSawmill>Fűrésztelep szükséges</NeedSawmill>
+<NeedSawmillDesc>Szükség van valamilyen fűrésztelepre hogy jobb deszkát csinálj.\n\nÉpíts egy Kézi fűrésztelepet vagy egy Elektromosat.</NeedSawmillDesc>
+<PoorMood>Rossz hangulat</PoorMood>
+<PoorMoodDesc>Azok a telepesek amelyek rossz hangulatúak,lehet hogy mentális szünetet tartanak vagy is kárt okoznak.:\n\n{0}</PoorMoodDesc>
+<TerribleMood>Szörnyű hangulat</TerribleMood>
+<TerribleMoodDesc>Ezek a telepesek kritikus hangulatban vannak- potenciálisan erőszakosak,mentálisan megtörtek:\n\n{0}</TerribleMoodDesc>
+<LowMoodDescEnding>Ellenőrizd ezeket a telepeseket' Nézd meg mi bántja őket.</LowMoodDescEnding>
+<ColonistNeedsRescue>Egy Kolonistának felmentőre van szüksége </ColonistNeedsRescue>
+<ColonistsNeedRescue>Kolonistáknak felmentőre van szükségük</ColonistsNeedRescue>
+<ColonistsNeedRescueDesc> Ezek a kolonisták tehetetlenek a földön:\n\n{0}\nKüldj egy telepest hogy megmentse őket és ágyba vigye őket.\n\n(Ahhoz hogy megmentsd,válassz másik telepest, jobb klikk az áldozatra és katt a megmentésre.</ColonistsNeedRescueDesc>
+<BuildARoom>Szoba építés</BuildARoom>
+<BuildARoomDesc>Egy szoba ajtó nélkül.\n\nHasználd az ÉPÍTÉSZ menüt a képernyő bal alsó sarkában hogy,dolgokat építs kedved szerint. Ha kijelölsz valamit építeni a kolonisták megépítik ha tudják.</BuildARoomDesc>
+<NeedDefenses>Védelemre van szükség</NeedDefenses>
+<NeedDefensesDesc>Itt volt valamikor és valószínűleg nem láttad. Kalóz fosztogatás hamarosan kezdődik.\n\nFel kell készülnöd a védekezésre, csapdákkal, homokzsákokkal, vagy őrtornyokkal.</NeedDefensesDesc>
+<NeedDoctor>Orvosra van szükség</NeedDoctor>
+<NeedDoctorDesc>A telepeseknek orvosi ellátásra van szükség de nincs egészséges telepesed.\n\n{0}\nRendelj egészséges telepest doktori munkára. Ha nem kezelik a sebeket, soha nem gyógyul meg megfelelően,és állandóvá válhetnak.</NeedDoctorDesc>
+<NeedMiner>Bányászra van szükség</NeedMiner>
+<NeedMinerDesc>Kijelöltél pár sziklát bányászásra, de nincs bányászod.\n\nVálassz egy kolonistát bányásznak.</NeedMinerDesc>
+<NeedWarden>Gondnokra van szükség</NeedWarden>
+<NeedWardenDesc>Van rabod, de nincs gondnokod.\n\nVálassz ki egy kolonistát gondnoknak.</NeedWardenDesc>
+<LowFood>Kevés kaja</LowFood>
+<LowFoodDesc>Csak ennyi van {0} teljes értékű táplálékod van. Ez veszélyesen kevés.\n\nTermessz, vegyél, keress, vagy ölj meg pár állatot.</LowFoodDesc>
+<LowMedicine>Kevés gyógyszer</LowMedicine>
+<LowMedicineDesc>Csak {0} gyógyszered van.\n\nVegyél némit a kereskedőtől.</LowMedicineDesc>
+<NoMedicineDesc>Nincs több gyógyszer raktáron.\n\nVegyél némit a kereskedőtől.</NoMedicineDesc>
+<NeedColonistBeds>Kolonistáidnak ágy kell</NeedColonistBeds>
+<NeedColonistBedsDesc>A kolonistáidnak néhány ágyra van szüksége. Nincs hely ahol aludjanak.\n\nCsinálj néhányat, vagy váltsd át a rab ágyat sima ágyra.\n\nHa nincs elég alapanyagod, tegyél le egy alvó helyet ingyenes és azzonnal letehető.</NeedColonistBedsDesc>
+<HunterLacksWeapon>Vadász fegyver hiányzik</HunterLacksWeapon>
+<HunterLacksWeaponDesc>Van vadászod de nincs fegyvere. Nem fognak vadászni addig még nem lesz arra alkalmas fegyvere.\n\nAhhoz hogy csökkentsd a sérülés esélyét, azt javasoljuk,hogy adj neki egy távolsági fegyvert.</HunterLacksWeaponDesc>
+<Starvation>Éhezés</Starvation>
+<StarvationDesc>A kolonisták éheznek:\n\n{0}\nSzerezz kaját.</StarvationDesc>
+<StarvationAnimals>Állatok éheznek</StarvationAnimals>
+<StarvationAnimalsDesc>A kolonista állatok éheznek:\n\n{0}\nSzerezz kaját.</StarvationAnimalsDesc>
+<Exhaustion>Kimerültség</Exhaustion>
+<ExhaustionDesc>Ezek a kolonisták kifáradtak:\n\n{0}\nKüld kicsit pihenni őket. Kijelölt ágyakra van szükségük. Győződj meg róla hogy van e szabad ágy.</ExhaustionDesc>
+<NeedFoodHopper>Élelmiszer vödör kell</NeedFoodHopper>
+<NeedFoodHopperDesc>Van ételadagolód de nincs vödör mellete.\n\nHogy a munka menjen rakd a vödörbe a nyers ételt.\n\nÉpíts vödröt az adagolóhoz.</NeedFoodHopperDesc>
+<BuildingNeedsPower>Épületnek energia kell</BuildingNeedsPower>
+<BuildingsNeedPower>Épületeknek energia kell</BuildingsNeedPower>
+<BuildingsNeedPowerDesc>Ezek az áramot használó épületek teljesen le vannak választva az összes lehetséges árramforrásról:\n\n{0}\nKöss rá generátort vagy egy elemet.</BuildingsNeedPowerDesc>
+<AndMore>és több</AndMore>
+<NeedMealSource>Étel forrás kell</NeedMealSource>
+<NeedMealSourceDesc>Nincs módod normális étel készítésére.\n\nÉpíts tűzhelyet,tábortüzet vagy tápanyagadagolót.\n\n(Nemlehet cellába építeni, különben a telepesek nem tudják hsználni.)</NeedMealSourceDesc>
+<NeedHomeArea>Otthon terület kell</NeedHomeArea>
+<NeedHomeAreaDesc>Ki kell jelölnöd az otthonod területés hogy kolonistáid takarítsák,oltsák a tüzet , és javítsák a dolgokat.\n\nAz ÉPÍTÉSZ menüben a zónákban tudod kiválasztani.</NeedHomeAreaDesc>
+<NeedBatteries>Elem kell</NeedBatteries>
+<NeedBatteriesDesc>Van szolár generátorod de nincs elemed. Ez azt jelenti , hogy amikor le megy a nap nem lesz áramod.\n\nÉpíts egy vagy több elemet hogy este is legyen áramod.</NeedBatteriesDesc>
+<NoTradingCapacity>Nincs kereskedelmi kapacitásod</NoTradingCapacity>
+<NoTradingCapacityDesc>Nem tudsz kereskedni az elhaladó hajókkal.\n\nÉpíts kommunikációs konzolt.</NoTradingCapacityDesc>
+<BrawlerHasRangedWeapon>Veszekedők között fegyver van</BrawlerHasRangedWeapon>
+<BrawlerHasRangedWeaponDesc>Az egyik kolonistád kötekedős, de egy fegyvert fogtak rá . Ez szomorúvá teszi.</BrawlerHasRangedWeaponDesc>
+<ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
+<ShieldUserHasRangedWeaponDesc>One of your colonists has a personal shield and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
+<NeedResearchProject>Kutatási projektre van szükség</NeedResearchProject>
+<NeedResearchProjectDesc>Van kutató padod de nincs projekt elindítva.\n\nNyisd meg a kutatás menüt és válassz projektet.</NeedResearchProjectDesc>
+<NeedDump>Tárolótér kell</NeedDump>
+<NeedDumpDesc>Megjelölt hely{0} megtelt,a telepesek nem tudják hova vigyék.\n\nJelölj ki raktárt,állítsd be hogy megfeleljen a kolonistáknak{0}.</NeedDumpDesc>
+<!-- Removed <NeedGrave>Need grave</NeedGrave> <NeedGraveDesc>There is a dead body laying on the ground and nowhere for your colonists to take it.\n\nBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc> -->
+<ColonistsIdle>{0} colonists idle</ColonistsIdle>
+<ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+<!-- Removed <HaltedConstructions>{0} constructions are missing materials</HaltedConstructions> <HaltedConstructionsDesc>These kinds of constructions are missing materials:\n\n{0}\nYou should probably make required materials available for your colonists.</HaltedConstructionsDesc> -->
+<ColonistNeedsTreatment>Colonist needs treatment</ColonistNeedsTreatment>
+<ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+<AlertHypothermia>Hipotermia</AlertHypothermia>
+<AlertHypothermiaDesc>Ezek a kolonisták megfagynak.\n\n{0}\nCsinálj ruhát vagy melegíts fel egy belteret.</AlertHypothermiaDesc>
+<PatientsAwaitingMedicalOperation>{0} páciens vár a műtétre</PatientsAwaitingMedicalOperation>
+<PatientsAwaitingMedicalOperationDesc>Ezek a páciensek műtétre várnka:\n\n{0}\nGyőződj meg róla hogy van elég orvosi felszerelés és szabad orvos.</PatientsAwaitingMedicalOperationDesc>
+<FireInHomeArea>Tűz!</FireInHomeArea>
+<FireInHomeAreaDesc>Tűz van az otthonodba.</FireInHomeAreaDesc>
+<PawnsWithLifeThreateningDisease>Súlyos betegség</PawnsWithLifeThreateningDisease>
+<PawnsWithLifeThreateningDiseaseDesc>Halál lehetősége áll fent ,mert súlyos beteg:\n\n{0}\nGyőződj meg róla hogy a legjobb ellátásban részesül e.</PawnsWithLifeThreateningDiseaseDesc>
+<PawnsWithLifeThreateningDiseaseAmputationDesc>Halál lehetősége áll fent ,mert súlyos beteg:\n\n{0}\nHa lehetőség van amputációra vagy a fertőzött végtag cseréjére akkor túlélheti a kolonista.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+<BilliardsNeedsSpace>Billiárdhoz tér szükséges</BilliardsNeedsSpace>
+<BilliardsNeedsSpaceDesc>Az egyik billiárd asztal mellet akadály van így nem tudják használni.\n\nA billiárd asztalnak szabad tér szükséges minden oldalról hogy használni tudják.</BilliardsNeedsSpaceDesc>
+<HunterHasShieldAndRangedWeapon>Vadász páncélal és távolsági fegyverrel</HunterHasShieldAndRangedWeapon>
+<HunterHasShieldAndRangedWeaponDesc>Egy páncélozott vadász távolról lő.\n\nNem tudják le vadászni ,kivéve ha leveszi a pajzsot .</HunterHasShieldAndRangedWeaponDesc>
+</LanguageData>

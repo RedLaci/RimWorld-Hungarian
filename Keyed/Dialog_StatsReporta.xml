@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageData>
+<StatsReport_BaseValue>Bázis érték</StatsReport_BaseValue>
+<StatsReport_RelevantTraits>Lényeges vonások</StatsReport_RelevantTraits>
+<StatsReport_RelevantGear>Lényeges felszerelés</StatsReport_RelevantGear>
+<StatsReport_LifeStage>Életszakasz</StatsReport_LifeStage>
+<StatsReport_Material>Anyag</StatsReport_Material>
+<StatsReport_CharacterQuality>Karakter minőség</StatsReport_CharacterQuality>
+<StatsReport_Skills>Képességi tényező</StatsReport_Skills>
+<StatsReport_OtherStats>Egyéb stat faktor</StatsReport_OtherStats>
+<StatsReport_HealthFactors>Egészség faktor</StatsReport_HealthFactors>
+<HealthFactorPercentImpact>{0} fontosság</HealthFactorPercentImpact>
+<StatsReport_PostProcessed>Utólag feldolgozott hajlítások</StatsReport_PostProcessed>
+<StatsReport_FinalValue>Utolsó érték</StatsReport_FinalValue>
+<StatsReport_MarketValueFromStuffsAndWork>A bázis piaci értéke éptési anyagok és a munka szerint.</StatsReport_MarketValueFromStuffsAndWork>
+<StatsReport_QualityMultiplier>Minőségi szorzó</StatsReport_QualityMultiplier>
+<StatsReport_AgeMultiplier>Kor szorzó {0}</StatsReport_AgeMultiplier>
+<StatsReport_HealthMultiplier>Egészség szorzó {0}</StatsReport_HealthMultiplier>
+<StatsReport_MoodMultiplier>Hangulat szorzó {0}</StatsReport_MoodMultiplier>
+<StatsReport_DifficultyMultiplier>Nehézség szorzó {0}</StatsReport_DifficultyMultiplier>
+<StatsReport_InBed>Ágyban</StatsReport_InBed>
+<StatsReport_Facilities>Felszerelés</StatsReport_Facilities>
+<StatsReport_BodySize>Testméret szorzó {0}</StatsReport_BodySize>
+<StatsReport_MeleeDPSExplanation>Stat megjelenik a következő formában:\nDPS ( Közelharci sebzés/ Hűtés másodpercben / Közelharci találat esély )\n\nDPS = Közelharci sebzés * Közelharci találat esély / Hűtés másodpercben</StatsReport_MeleeDPSExplanation>
+<StatsReport_MeleeDamage>Közelharci sebzés</StatsReport_MeleeDamage>
+<StatsReport_Cooldown>Hűtés</StatsReport_Cooldown>
+<StatsReport_MeleeHitChance>Közelharci találat esélye</StatsReport_MeleeHitChance>
+<StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
+<StatsReport_LifeExpectancy>Várható élettartam</StatsReport_LifeExpectancy>
+<StatsReport_MissingBodyParts>Szorzó a hiányzó testrészekre</StatsReport_MissingBodyParts>
+<AverageOfAllAttacks>Átlagosan minden támadás</AverageOfAllAttacks>
+<StatsReport_UnpoweredWorkTable>Nincs energia</StatsReport_UnpoweredWorkTable>
+<StatsReport_ScenarioFactor>Forgatókönyv</StatsReport_ScenarioFactor>
+</LanguageData>
